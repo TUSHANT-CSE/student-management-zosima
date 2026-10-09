@@ -1,0 +1,13 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Student Management API built with Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
